@@ -1,3 +1,3 @@
 import os 
 import roysc
-mysc.login()
+roy.login()
