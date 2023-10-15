@@ -1,3 +1,3 @@
 import os 
-import roysc
+import roys
 roysc.login()
