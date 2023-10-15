@@ -1,3 +1,3 @@
 import os 
-import roys
-roysc.login()
+import mysc
+mysc.login()
