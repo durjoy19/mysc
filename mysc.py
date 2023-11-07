@@ -1,3 +1,3 @@
 import os 
 import mysc
-mysc.login()
+mysc.py login()
